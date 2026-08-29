@@ -604,12 +604,12 @@
         "sha256": "5fa4add0d147293240fe4ed4f21b8d0ed0a264567930b4aab2b3c17a121006c6"
       },
       {
-        "path": "/Users/alice51849/00_Standards/kids-compliance.md",
+        "path": "00_Standards/kids-compliance.md",
         "role": "portfolio compliance authority",
         "sha256": "8d32e73c10c3f1bfdb1a49e3daabef8ee1a5f05da63c4db9c96f407534b2ebd0"
       },
       {
-        "path": "/Users/alice51849/00_Standards/localization.md",
+        "path": "00_Standards/localization.md",
         "role": "portfolio compliance authority",
         "sha256": "e1deb27006c684a9d3ffda74b277965058934ce09f8320d49376ea5c2f39c9a0"
       }
