@@ -17,3 +17,10 @@
 ## Portfolio
 
 - [All public iOS apps](https://alice51849.github.io/ios-app-guide/apps/index.html)
+
+## AI assistant answer pages
+
+- [Lumi Mission: Reward Chart (en)](https://open.cait518.cc/lumi-mission-support/about-lumi-mission-app.html): what the app is, who it is for, how it is paid for, how it differs, FAQ
+- [Lumi Hành Tinh Nhiệm Vụ (vi)](https://open.cait518.cc/lumi-mission-support/about-lumi-mission-app.vi.html): what the app is, who it is for, how it is paid for, how it differs, FAQ
+- [Lumi ดาวภารกิจ (th)](https://open.cait518.cc/lumi-mission-support/about-lumi-mission-app.th.html): what the app is, who it is for, how it is paid for, how it differs, FAQ
+- [Lumi ミッション星 生活習慣 (ja)](https://open.cait518.cc/lumi-mission-support/about-lumi-mission-app.ja.html): what the app is, who it is for, how it is paid for, how it differs, FAQ
